@@ -1,0 +1,25 @@
+.App {
+  height: 1500px;
+  width: 970px;
+  display: inline-block;
+  margin-left: 300px;
+}
+
+#formBox {
+  width: 400px;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.field {
+  padding: 10px;
+
+}
+
+#formBtn {
+  color: green;
+  margin-left: 10px;
+}
