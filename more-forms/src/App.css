@@ -1,0 +1,27 @@
+.App {
+  background-color: aliceblue;
+  height: 1500px;
+  width: 970px;
+  display: flex;
+  justify-content: center;
+}
+
+#formBox {
+  background-color: aliceblue;
+  width: 400px;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.field {
+  padding: 10px;
+
+}
+
+#formBtn {
+  color: green;
+  margin-left: 10px;
+}
